@@ -1,0 +1,26 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="margin_normal">8dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <dimen name="margin_small">0dp</dimen>
+    <dimen name="text_size_normal">13sp</dimen>
+    <dimen name="imge_book_detail">80dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="def_margin">16dp</dimen>
+    <dimen name="def_padding">8dp</dimen>
+    <dimen name="def_padding_large">16dp</dimen>
+
+    <!-- Dynamic speaker imageview in agenda details. -->
+    <dimen name="imgv_speaker_size">80dp</dimen>
+    <dimen name="imgv_speaker_offset">65dp</dimen>
+
+    <!-- Jump to Current button dimensions -->
+    <dimen name="jump_btn_corner_radius">20dp</dimen>
+    <dimen name="jump_btn_margin_bottom">16dp</dimen>
+    <dimen name="jump_btn_horizontal_padding">20dp</dimen>
+
+</resources>

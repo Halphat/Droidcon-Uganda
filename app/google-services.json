@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "275363059015",
+    "firebase_url": "https://droidcon-uganda-22c89-default-rtdb.firebaseio.com",
+    "project_id": "droidcon-uganda-22c89",
+    "storage_bucket": "droidcon-uganda-22c89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275363059015:android:110d4fd6d51e38278d2862",
+        "android_client_info": {
+          "package_name": "com.mentalmachines.droidcon_boston"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275363059015-5chbnrnc9cvlg2phmsrg4u5urt5lhpfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSaSxJKI0-k6y_S-YjV8-AjKzQwPllaZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275363059015-5chbnrnc9cvlg2phmsrg4u5urt5lhpfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
